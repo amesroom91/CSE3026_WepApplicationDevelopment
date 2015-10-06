@@ -1,0 +1,87 @@
+#wrap, h1, h2, article, section, #month{
+	border:5px solid;
+}
+#wrap{
+	border-color: blue;
+	background-color: white;
+}
+
+h1{
+	border-color: green;
+	text-align: center;
+	border:none;
+}
+
+h2{
+	border-color:orange;
+	text-align: center;
+	border:none;
+	border-bottom: 3px dashed white
+}
+
+article{
+	border-color:yellow;
+	background-color: #6277C3;
+	color:#FFFFFF;
+	padding:5px;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+section{
+	border-color: purple;
+	background-color: white;
+	color:black;
+	text-align: center;
+	border:none;
+	margin:5px;
+	float:left;
+}
+
+#month{
+	border-color: brown;
+	border:none;
+	font-weight: bold;
+}
+
+body{
+	background-image: url(http://selab.hanyang.ac.kr/courses/cse326/2015/problems/images/3/blueTextureBG.jpg);
+	margin-left:15%;
+	margin-right:15%;
+}
+
+#wrap{
+	border:10px dashed white;
+}
+
+article{
+	border:4px solid #1D2475;
+	border-radius: 15px;
+	margin-right: 180px;
+	overflow: hidden;
+}
+
+header{
+	background-color: #8E8E8E;
+	color:white;
+	padding:5px;
+}
+
+aside{
+	width: 150px;
+	background-color: #3366CC;
+	margin-left: 10px;
+	margin-top: 10px;
+	border: 4px solid #1D2475;
+	border-radius: 15px;
+	float:right;
+}
+
+aside a{
+	color:orange;
+	text-decoration: none;
+}
+
+* * :not(article) :not(section) :hover{
+	background-color: #ffff00;
+}
