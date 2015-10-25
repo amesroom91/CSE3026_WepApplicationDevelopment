@@ -1,0 +1,43 @@
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Strawberry;4
+Nam Taekho;2010036198;Apple;1
+Nam Taekho;2010036198;Apple;1
+Nam Taekho;2010036198;Apple;1
+Nam Taekho;2010036198;Orange;5
+Nam Taekho;2010036198;Melon;5
+Nam Taekho;;Melon;5
+Nam Taekho;;Melon;5
+Nam Taekho;2010036198;Apple;1
+Nam Taekho;2010036198;Apple;1
+Nam Taekho;2010036198;Apple;1
+Nam-Taekho;2010036198;Apple;1
+Nam--Taekho;2010036198;Apple;1
+Nam-Taekho;2010036198;Apple;1
+Nam-Taekho-;2010036198;Apple;1
+Nam-Taekho;2010036198;Apple;1
+Nam-Taekho;2010036198;Apple;1
+Nam-Taekho;2010036198;Apple;1
+Nam-Taekho;2010036198;Apple;1
+Nam-Taekho;2010036198;Apple;1
+Nam-Taekho;2010036198;Apple;1
+Nam- Taekho;2010036198;Apple;1
+a-b-c;2010036198;Apple;1
+a;2010036198;Apple;1
+a-a;2010036198;Apple;1
+a-a-b;2010036198;Apple;1
+a-a-basasd;2010036198;Apple;1
+a-a-basasdbba;2010036198;Apple;1
+a-a-basasd- bba;2010036198;Apple;1
+a- c;2010036198;Apple;1
+a-m c;2010036198;Apple;1
+aa-m c;2010036198;Apple;1
+aa-m casd;2010036198;Apple;1
+aa-m casd-a;2010036198;Apple;1
+aa-sd;2010036198;Apple;1
